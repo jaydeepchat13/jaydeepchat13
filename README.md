@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @jaydeepchat13
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+jaydeepchat13/jaydeepchat13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I developed an app in android, in this app I get QR code and save it in device . CRUD operation run successfully. I regenerate QR code but I am unable to print QR code
+to my bluetooth printer (ZQ510).
+I need help.
